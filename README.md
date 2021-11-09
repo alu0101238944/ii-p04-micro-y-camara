@@ -20,7 +20,7 @@ El objetivo de esta práctica familiarizarse con los componentes de cámara y mi
 
 ## Evidencia gráfica
 
-[![Miniatura del vídeo demostrativo de la escena realizada](./img/miniatura)](https://youtu.be/_-xzEbgMZWM)
+[![Alt text](https://img.youtube.com/vi/_-xzEbgMZWM/0.jpg)](https://www.youtube.com/watch?v=_-xzEbgMZWM)
 
 # Apartados
 
